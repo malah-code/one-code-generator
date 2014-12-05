@@ -1,1 +1,1 @@
-alert(ètestè);
+alert('test');
